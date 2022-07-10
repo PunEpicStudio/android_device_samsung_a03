@@ -6,3 +6,6 @@
 #
 
 LOCAL_PATH := device/samsung/a03
+
+# Dynamic partitions
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
